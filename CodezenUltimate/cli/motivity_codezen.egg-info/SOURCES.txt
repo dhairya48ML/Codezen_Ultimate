@@ -1,0 +1,9 @@
+README.md
+codezen_cli.py
+pyproject.toml
+motivity_codezen.egg-info/PKG-INFO
+motivity_codezen.egg-info/SOURCES.txt
+motivity_codezen.egg-info/dependency_links.txt
+motivity_codezen.egg-info/entry_points.txt
+motivity_codezen.egg-info/requires.txt
+motivity_codezen.egg-info/top_level.txt

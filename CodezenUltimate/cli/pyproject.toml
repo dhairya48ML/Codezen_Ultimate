@@ -1,0 +1,22 @@
+[project]
+name = "motivity-codezen"
+version = "0.2.2"
+description = "MotivityLabs CodeZen AI Agent CLI"
+
+authors = [
+    { name="Yeshwanth Goud", email="mudimalayeshwanthgoud@gmail.com" }
+]
+readme = "README.md"
+requires-python = ">=3.8"
+
+dependencies = [
+    "requests>=2.28.0",
+    "pyyaml>=6.0",
+]
+
+[project.scripts]
+codezen = "codezen_cli:main"
+
+[build-system]  
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"

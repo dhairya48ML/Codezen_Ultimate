@@ -1,0 +1,2 @@
+[console_scripts]
+codezen = codezen_cli:main
