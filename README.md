@@ -27,16 +27,6 @@
 
 ---
 
-## 🖼 Screenshots *(Add Later)*
-
-```md
-<!-- Example:
-![Preview](assets/preview.png)
--->
-```
-
----
-
 ## ⚙️ Getting Started
 
 ### 1️⃣ Clone the repository
